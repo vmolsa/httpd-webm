@@ -28,3 +28,7 @@ Place your webm file to same folder as the httpd-webm file is and rename it to
 ### Open:
 
     http://localhost:8080
+
+### License:
+
+    BSD-3 Clause License http://opensource.org/licenses/BSD-3-Clause
