@@ -31,4 +31,4 @@ Place your webm file to same folder as the httpd-webm file is and rename it to
 
 ### License:
 
-[http://opensource.org/licenses/BSD-3-Clause] (BSD-3 Clause License) 
+[BSD-3 Clause License](http://opensource.org/licenses/BSD-3-Clause) 
