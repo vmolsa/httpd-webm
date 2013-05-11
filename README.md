@@ -7,7 +7,7 @@ Small HTTP server for streaming webm video file to browser
 
 You have to install libevent2 and gcc before you can build this
 
-    sudo apt-get install libevent-dev build-essential
+    sudo apt-get install libevent-dev build-essential git
 
 ### Build:
     
