@@ -13,7 +13,7 @@ Then just type make in httpd-webm folder
     
     make
     
-### WEBM:
+### Webm:
 
 Place your webm file to same folder as the httpd-webm file is and rename it to
 
