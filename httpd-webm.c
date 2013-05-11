@@ -61,7 +61,7 @@ void handleResponse(struct evhttp_request *req, void *arg) {
 	evhttp_send_reply_start(req, HTTP_OK, "OK");
 
 	if (stat(FILENAME, &st) == -1) {
-		ERR("Unable to stat file!\n");
+		ERR("Unable to open movie file! (%s)\n", FILENAME);
 		return;
 	}
 
