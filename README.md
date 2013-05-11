@@ -3,14 +3,16 @@ httpd-webm
 
 Small HTTP server for streaming webm video file to browser
 
-### Build (ubuntu):
+### Requirements (ubuntu):
 
 You have to install libevent2 and gcc before you can build this
 
     sudo apt-get install libevent-dev build-essential
 
-Then just type make in httpd-webm folder
+### Build:
     
+    git clone https://github.com/vmolsa/httpd-webm.git
+    cd httpd-webm
     make
     
 ### Webm:
